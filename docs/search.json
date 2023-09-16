@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "/mysite",
+    "section": "",
+    "text": "Hello, and welcome to Hc Qin’s website!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "mysite/index.html",
+    "href": "mysite/index.html",
+    "title": "/mysite",
+    "section": "",
+    "text": "Hello, and welcome to Hc Qin’s website!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "mysite/about.html",
+    "href": "mysite/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
